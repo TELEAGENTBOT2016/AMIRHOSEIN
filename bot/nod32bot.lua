@@ -322,7 +322,7 @@ ch: @Nod32team
 
 ]],
     help_text = [[
-NOD32 Commands list :
+
  
 1-banhammer list ^
  
@@ -519,7 +519,7 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
+ 
 
 G00D LUCK ^_^
 ]]
